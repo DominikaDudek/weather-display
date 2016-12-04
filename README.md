@@ -1,2 +1,2 @@
 # weather-display
-See the weather for Wrocław with one click
+See the weather for Wrocław with one click.
